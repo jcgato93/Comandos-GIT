@@ -1,0 +1,13 @@
+La menera mas facil es dirigirnos a 
+la rama donde quedara fusionado el contenido
+con el comando 
+
+    git checkout nombre_rama
+
+
+ya estando en la rama se ejecuta el 
+comando 
+
+    git merge rama_De_donde_provienen_Cambios
+
+

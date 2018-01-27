@@ -1,0 +1,5 @@
+--Para repositorio vacio
+1.ubicarnos en la carpeta del proyecto donde se pretende llevar el control de archivos
+
+2- ejecutamos el comando    git init        
+este creara una carpeta .git en el proyecto 

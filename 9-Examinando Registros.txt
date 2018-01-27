@@ -1,0 +1,11 @@
+Para saber los distintos commits que se han
+realizado
+
+    git log
+
+
+para ver la primera linea de comentario 
+del commit 
+
+    git log --oneline
+

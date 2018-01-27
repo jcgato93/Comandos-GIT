@@ -1,0 +1,18 @@
+para eliminarlo del staging index
+Para resetear el index y el directorio que está trabajando al último estado comprometido se usa este comando:
+
+git reset HEAD nombre_archivo
+
+
+para eliminarlo completamente y olvidar todos los cambios
+desde el ultimo commit 
+Este comando se puede usar para remover archivos del index y del directorio que está trabajando:
+
+git checkout -- nombre_archivo
+
+
+
+para quitar por completo usar el primero y luego el otro
+y verificar con git status
+
+

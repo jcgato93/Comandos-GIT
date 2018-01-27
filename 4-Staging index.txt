@@ -1,0 +1,30 @@
+Es un area temporal donde estaran los cambios que pretendemos
+añadir al commit
+
+forma de trabajo 
+
+1-Modificar archivos detro del directorio de trabajo
+
+2-Seleccionar aquellos archivos cuyos cambios 
+queramos enviar y agregarlos al staging index
+
+3-Confirmar ("commit") esos cambios para que se 
+almacenen en el repositorio
+
+
+para añadir al staging index usamos el siguiente comando
+
+ git add   nombre_archivo
+
+
+para añadir todos los archivos
+
+   git add .
+
+para verificar el status de staging index  y saber que archivos esta listos
+para ser subidos en el commit  
+
+    git status
+
+    
+

@@ -1,0 +1,14 @@
+Para eliminar un archivo
+se ase en el stanging index y luego sera eliminado 
+en el repositorio . Para esto se usa el comando
+
+rm  ruta_y_nombreArchivo
+
+
+
+y luego borrarlo en el sistema con el comando 
+
+git rm ruta_y_nombreArchivo
+
+
+y finalmente el commit 

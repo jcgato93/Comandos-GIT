@@ -1,0 +1,40 @@
+para enviar un commit y registrarlo en el repositorio
+
+    git commit
+   
+   cuando se termine de escribir el mensaje esc y el luego el 
+   comando :wq   luego enter
+
+
+ o la opcion de 
+
+     git commit -m "mensaje del commit"
+  
+    
+Nos aparecera un espacio con unas lines de muestra para
+poder escribir una descripcion del commit 
+
+Recomendacion de comentarios 
+
+1-Por que has hecho este cambio
+
+2-que cambios has cambiado , descripcion rapido , nombres de archivos etc
+
+3-Que consecuencias esperas que tenga tu cambio ?
+  ejemplo:
+   ya se podra hacer xxxxx 
+   o esto afecta como se comunincan los modulos x o y 
+
+
+Convenciones inportantes para el mensaje
+
+Primera linea del mensaje:es el resumen del commit. No 
+debe tener mas de 50 caracteres. Es comun escribirlo en 
+imperativo (ej:"añade x","corrige Y").
+
+
+A partir de la tercera linea: cuerpo del mensaje.Pon saltos de linea a 
+mano y no dejes que cada linea
+tenga mas de 72 caracteres.
+
+                                                                      

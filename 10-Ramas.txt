@@ -1,0 +1,28 @@
+Para crear una rama apartir de la rama y
+en commit actual 
+
+    git branch nombre_rama
+
+
+para ver las ramas existentes y en cual de 
+ellas se esta actualmente
+
+    git branch
+
+
+para cambiar de rama
+
+    git checkout nombre_rama
+
+
+
+para crear una nueva rama y moverse inmediatamete
+a ella
+
+    git checkout -b nombre_rama        
+
+
+
+para borrar una rama 
+
+    git branch -d nombre_rama
