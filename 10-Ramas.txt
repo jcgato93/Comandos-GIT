@@ -10,6 +10,11 @@ ellas se esta actualmente
     git branch
 
 
+para ver las ramas de un repositorio remoto , porque normalmente solo se ve la master
+
+    git branch -a
+
+
 para cambiar de rama
 
     git checkout nombre_rama

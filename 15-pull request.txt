@@ -1,0 +1,13 @@
+si queremos descargar o actualizar el 
+repositorio local
+
+     git pull
+
+
+pull a rama especifica
+
+    git pull origin "nombre_rama"
+
+
+para evitar que borrre nuestros cambios
+    git pull --rebase         

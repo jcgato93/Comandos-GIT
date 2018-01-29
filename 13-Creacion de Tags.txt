@@ -1,0 +1,16 @@
+para facilitar la referenciacion a un 
+commit le damos un alias o tag 
+
+
+para colocar un tag al commit actual
+    git tag  "alias"
+
+
+
+para colocar un tag a un commit concreto
+    git tag "alias"  id_commit
+
+
+para listar los tags 
+    git tag
+        

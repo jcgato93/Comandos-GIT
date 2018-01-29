@@ -1,0 +1,5 @@
+para poder realizar un push y si este genera algun error 
+vamos al repository del server y en la rama master o en aquella que deseamos hacer 
+el push 
+
+    git config receive.denyCurrentBranch ignore

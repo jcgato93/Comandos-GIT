@@ -1,0 +1,10 @@
+primero un comando muy util para examinar los cometarios de 
+los commits
+
+    git log --oneline
+
+para movernos a un commit previo
+
+    git checkout  numero del commit 
+
+    
