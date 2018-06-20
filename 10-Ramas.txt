@@ -1,5 +1,5 @@
 Para crear una rama apartir de la rama y
-en commit actual 
+ commit actual 
 
     git branch nombre_rama
 

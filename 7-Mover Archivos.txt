@@ -4,4 +4,4 @@ y donde sea movido usamos el comando add
 
 si vemos el status aparecera que se a eliminado el archivo
 pero al mismo tiempo existe uno nuevo con el mismo nombre
-entro punto del proyecto 
+en otro punto del proyecto 

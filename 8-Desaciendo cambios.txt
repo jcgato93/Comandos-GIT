@@ -12,7 +12,7 @@ git checkout -- nombre_archivo
 
 
 
-para quitar por completo usar el primero y luego el otro
+para quitar por completo usar el primero comando y luego el otro
 y verificar con git status
 
 

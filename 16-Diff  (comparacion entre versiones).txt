@@ -1,0 +1,19 @@
+Con el siguiente comando podemos ver 
+cuales son los cambios entre las versiones  A y B
+
+para comparar el estado inicial con alguno de los commits
+
+git diff
+gti diff  sha1_del_commit
+
+y este nos mostrara las diferencia entre las versiones
+
+
+
+
+-Comparar dos versiones 
+git diff  [version1] [version2]
+
+tambien funciona con los tags 
+
+git diff [tag_1] [tag_2]

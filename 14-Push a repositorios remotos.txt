@@ -1,6 +1,6 @@
-podemos enpujar "push" los cambios realizados
+podemos empujar "push" los cambios realizados
 a un repositorio remoto que se le realizara una
-clonacion previo 
+clonacion previa 
 
 para enviar cambios a la master del remoto
     git push 
@@ -13,13 +13,13 @@ para especificar la rama donde se quiere realizar el push
 
 
 
-otra forma de accerlo es agregarlo directamente
+otra forma de hacerlo es agregarlo directamente
 como remoto
 
     git remote add "alias_Remoto"  "ruta del remoto"
 
 
 
-para realizr un push a un remoto creado
+para realizar un push a un remoto creado
 
     git push "alias_Remoto" "nombre_rama"
