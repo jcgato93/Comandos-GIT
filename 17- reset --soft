@@ -1,0 +1,9 @@
+Para reescribir la historia o el flujo de que lleva una rama
+
+ejemplo :
+
+git reset --soft [SHA1]
+
+Hay que tener en cuenta que si usas 
+Tienes 10 commits y borras el numero 7, los commits 8, 9 y 10 también se borran, y tendras un nuevo commit que tomara el numero 8.
+
