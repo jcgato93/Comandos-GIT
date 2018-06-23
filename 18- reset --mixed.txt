@@ -1,0 +1,7 @@
+Descarta cambios , quita los commmits
+pero no deja los archivos en stage
+estos quedan en el working directory
+
+
+git reset--mixed SHA
+
