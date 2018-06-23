@@ -31,3 +31,8 @@ a ella
 para borrar una rama 
 
     git branch -d nombre_rama
+
+
+para cambiar el nombre de una rama existente 
+
+    git branch -m [oldName] [newName]
