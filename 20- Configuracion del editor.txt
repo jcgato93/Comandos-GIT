@@ -1,0 +1,16 @@
+para configurar que editor utilizara git para
+tareas como los mensajes del commit 
+
+ejemplo :
+ git commit  
+
+ cuando hacemos esto nos lleva al editor para colocar el mensaje del commit 
+
+
+
+comando para configuracion  configuracion 
+
+git config --global core.editor "code --wait"    
+
+
+con el anterior comando se ejecutara el editor de codigo "visual estudio code"
