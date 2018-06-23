@@ -1,0 +1,16 @@
+--hard
+Resets the index and working tree. 
+Any changes to tracked files in the working tree 
+since <commit> are discarded.
+
+Restablece el índice y el árbol de trabajo.
+Cualquier cambio en los archivos rastreados en el árbol de trabajo
+desde <commit> se descarta.
+
+
+git reset--hard [SHA1]
+
+ó
+
+git reset --hard     "este actuara en el contexto actual"
+
