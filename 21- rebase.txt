@@ -1,0 +1,8 @@
+git rebase: hace prácticamente lo mismo que merge,
+ cambiamos la historia de nuestro proyecto 
+ sin crear bifurcaciones del proyecto. 
+
+
+ git rebase  [Rama]
+
+

@@ -9,3 +9,7 @@ del commit
 
     git log --oneline
 
+
+para ver el log junto con las graficas de Ramas
+
+     git log --oneline --graph
