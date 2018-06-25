@@ -1,0 +1,8 @@
+este comando nos ayuda a mover commits de 
+forma selectiva a otra rama 
+
+para ello primero nos movemos a la rama 
+donde queremos mover el commit 
+y luego utilizamos el comando 
+
+git cherry-pick [SHA1]
