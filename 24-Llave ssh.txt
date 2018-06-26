@@ -1,0 +1,23 @@
+creamos esta llave para poder realizar 
+un push a un repositorio remoto en github
+sin que este nos pida el usuario y la contraseña 
+cada vez que realicemos un cambio
+
+para crear llave, desde la terminal de git
+
+ ssh-keygen -t rsa -b 4096 -C "emailGitHub@test.com"
+
+esta nos indica donde se guardara la llave ssh
+
+copias las llave con el comando
+
+    pbcopy < ~/.ssh/id_rsa.pub
+
+
+vamos a las  configuracions de la pagina de emailGitHub
+    |
+    |_SSH and GPG Keys
+
+click en la opcion new , damos ultitulo a la llave y pegamos el ssh key 
+finalmente add SSH key
+
