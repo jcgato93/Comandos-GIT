@@ -18,7 +18,7 @@ Recomendacion de comentarios
 
 1-Por que has hecho este cambio
 
-2-que cambios has cambiado , descripcion rapido , nombres de archivos etc
+2-que cambios has hecho , descripcion rapido , nombres de archivos etc
 
 3-Que consecuencias esperas que tenga tu cambio ?
   ejemplo:
@@ -26,7 +26,7 @@ Recomendacion de comentarios
    o esto afecta como se comunincan los modulos x o y 
 
 
-Convenciones inportantes para el mensaje
+Convenciones importantes para el mensaje
 
 Primera linea del mensaje:es el resumen del commit. No 
 debe tener mas de 50 caracteres. Es comun escribirlo en 
